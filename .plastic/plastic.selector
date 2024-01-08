@@ -1,0 +1,4 @@
+repository "Elementia@VN_PAN@cloud"
+  path "/"
+    br "/main"
+    co "/main"
